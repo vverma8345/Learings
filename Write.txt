@@ -1,0 +1,7 @@
+This is written by java program.
+Apple
+Mango
+Orange
+Grapes
+papaya
+cherry
